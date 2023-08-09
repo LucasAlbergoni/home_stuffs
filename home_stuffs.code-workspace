@@ -1,4 +1,5 @@
 {
+
 	"folders": [
 		{
 			"path": "home_stuffs"
@@ -7,5 +8,8 @@
 			"path": "backend"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
+	
 }
